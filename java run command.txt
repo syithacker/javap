@@ -1,0 +1,5 @@
+Compile the Java Program:
+javac -cp "mysql-connector-j-9.2.0.jar;." Classname.java
+
+Run the Java Program
+java -cp "mysql-connector-j-9.2.0.jar;." classname
